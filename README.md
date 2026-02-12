@@ -1,6 +1,7 @@
 🍎 **Instance Segmentation Without Field Data Automatic Annotation for Apple Detection Using LLM-Generated Synthetic Images**
 
 **Overview**
+![Fig1](https://github.com/user-attachments/assets/b7f2f905-df50-452a-a6ef-1a74b9b62a9a)
 
 This project presents a novel, fully automated training pipeline for apple instance segmentation in commercial orchards developed without field data collection or manual image annotation during training.
 
